@@ -2,7 +2,6 @@ body{
     font-family: Arial, sans-serif;
     margin:0;
     padding:0;
-    background-image:url("https://images.unsplash.com/photo-1586500036706-41963de24d8b");
     background-size:cover;
     background-attachment:fixed;
     color:white;
@@ -35,11 +34,6 @@ nav a:hover{
     background:rgba(0,0,0,0.6);
     padding:20px;
     margin:40px;
-    border-radius:10px;
-}
-
-img{
-    width:400px;
     border-radius:10px;
 }
 
